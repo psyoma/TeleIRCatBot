@@ -118,7 +118,7 @@ config.ircOptions = {
     port: 6667,
     localAddress: null,
     showErrors: true,
-    autoRejoin: true,
+    autoRejoin: false,
     autoConnect: true,
     channels: [], // auto generated, do not touch
     secure: false,
