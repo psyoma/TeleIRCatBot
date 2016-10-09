@@ -1,3 +1,10 @@
+#### Configured Teleirc Files for IRCatbot. 
+
+* This is a fork of FrutieX/teleric whose sole purpose is to be a preconfigured setup for my teleirc bot-IRCatbot
+* If you would like to have your own box, I highly suggest you download the orginal from (https://fruitiex.org/blog/tag/teleirc/)
+* There is a good chance anything from this repository is BROKEN.
+* Thanks FrutieX for providing the code on github. Your programs rocks. I found thanks to the wonderful folks at (https://antergos.com/) and went in search to create my own for use in other IRC rooms I help run.
+
 ![Logo](/extras/logo.png)
 
 A simple [Telegram](https://telegram.org/) ↔ IRC gateway.
